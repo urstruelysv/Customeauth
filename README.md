@@ -1,3 +1,9 @@
+## fundamental way of writing an auth system
+
+here is the starting point
+
+https://www.youtube.com/watch?v=Otq0LY90Qso
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
