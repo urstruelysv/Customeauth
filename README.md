@@ -5,6 +5,10 @@ here is the starting point
 https://www.youtube.com/watch?v=Otq0LY90Qso
 
 
+![NotebookLM Mind Map-2](https://github.com/user-attachments/assets/82b8b488-8efd-42a9-a4da-f76adb0fad50)
+
+
+
 
 ##
 
