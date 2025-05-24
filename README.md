@@ -7,11 +7,10 @@ Custom authentication in Next.js,a myriad of things that can go wrong—token ma
 This repository is my learning journey, and I hope it becomes a valuable resource for anyone looking to embark on the same path. I've compiled all the tutorials, articles, and videos that I'm using, so you don't have to start from scratch.
 
 
-this could be a good tsrating point 
+🔗 A great starting point:
+Custom Auth in Next.js – YouTube Tutorial
 
-https://www.youtube.com/watch?v=Otq0LY90Qso
-
-![NotebookLM Mind Map-2](https://github.com/user-attachments/assets/82b8b488-8efd-42a9-a4da-f76adb0fad50)
+![NotebookLM Mind Map-2](https://github.com/user-attachments/assets/1d1f95d8-9b10-484d-bf2b-488ebac554fc)
 
 _
 
